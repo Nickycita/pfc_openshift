@@ -1,0 +1,76 @@
+body {
+    background-color: #808080;
+    font-family: Sans-Serif;
+    color: #FFFFFF;
+}
+
+.head {
+    background-color: #212121;
+    color: white;
+}
+
+.logo {
+    float: left;
+    padding-left: 20px;
+}
+
+.login {
+    font-size: 16px;
+    float: right;
+    text-align: center;
+    padding-right: 20px;
+}
+
+.menu {
+    background-color: #303030;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+}
+
+.menulist {
+    width: 20%;
+    float: left;
+}
+
+.menulist a {
+    color: #FFFFFF;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.cuerpo {
+    background-image: url("img/cuerpo.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 440px;
+}
+
+.celda {
+    width: 30%;
+    float: left;
+    color: black;
+    background-color: #FFFFFF;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.celdacentro {
+    color: black;
+    background-color: #FFFFFF;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.footer {
+    background-color: #3b3b3b;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.clear {
+    clear: both;
+}
