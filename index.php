@@ -90,7 +90,7 @@ if (
         <br><br>
         <div class="celdacentro">
             <br>
-            <h1>Bienvenido a nuestra tienda</h1>
+            <h1>Bienvenidos Juan y Aida</h1>
         </div>
     </div>
     <div class="clear">
